@@ -52,7 +52,7 @@ public class Main {
         System.out.println("localBinary = "+localBinary);
         int localOctal = 0_14;
         System.out.println("localOctal = "+localOctal);
-        int localLong = 10_000_000;
+        long localLong = 10_000_000L;
         System.out.println("localLong = "+localLong);
         String localString = "Every step I take gets me closer to my goal.";
         System.out.println("localString = "+localString);
